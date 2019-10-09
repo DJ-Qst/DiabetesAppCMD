@@ -22,6 +22,9 @@ elif meal == 'l':
     calculations.numunits(carb, data["Lunch"], number, data["startScale"], data["rnge"])
 elif meal == 'd':
     calculations.numunits(carb, data["Dinner"], number, data["startScale"], data["rnge"])
+elif meal == 's':
+    data = calculations.intro()
+    input("Thank you, press enter when finished . . . ")
 
 with open('data.json', 'w') as file:
     json.dump(data, file)
