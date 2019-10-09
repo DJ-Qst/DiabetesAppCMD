@@ -7,6 +7,8 @@ def numunits(carbs, perunit, number, startscale, rnge):
     else:
         print("Your number is great! You need to give no extra units!")
 
+    input("\nPress enter when finished . . . ")
+
 
 def intro():
     data = {}
