@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5312e1a1-f227-4103-afb0-f3477f5e1eb4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculations.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="5312e1a1-f227-4103-afb0-f3477f5e1eb4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../firstProject" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,7 +155,21 @@
       <option name="project" value="LOCAL" />
       <updated>1570628618524</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Comments! Other people can now read my code!">
+      <created>1570629178571</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570629178571</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Deleted json file so it is not in the code if project gets cloned">
+      <created>1570629282254</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1570629282254</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -189,7 +200,9 @@
     <MESSAGE value="Everything is working fine, just need while statement to give units." />
     <MESSAGE value="Finished with core, need to add settings" />
     <MESSAGE value="Added settings if statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added settings if statement" />
+    <MESSAGE value="Comments! Other people can now read my code!" />
+    <MESSAGE value="Deleted json file so it is not in the code if project gets cloned" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted json file so it is not in the code if project gets cloned" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
