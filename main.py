@@ -7,6 +7,7 @@ try:
         data = json.load(file)
 
 except FileNotFoundError:
+    print("This is an initial set up. Your information will be saved after this.")
     data = calculations.intro()
 
 # Getting which meal to use

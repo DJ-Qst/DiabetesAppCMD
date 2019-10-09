@@ -169,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570629282254</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Created .gitignore">
+      <created>1570629500454</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1570629500454</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -202,7 +209,8 @@
     <MESSAGE value="Added settings if statement" />
     <MESSAGE value="Comments! Other people can now read my code!" />
     <MESSAGE value="Deleted json file so it is not in the code if project gets cloned" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted json file so it is not in the code if project gets cloned" />
+    <MESSAGE value="Created .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created .gitignore" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
