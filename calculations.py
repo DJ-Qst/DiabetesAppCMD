@@ -1,7 +1,7 @@
 def numunits(carbs, perunit, number, startscale, rnge):
     # Base food units, no high
     units = round(carbs / perunit, 2)
-    print("You should give " + str(units) + " for the food.")
+    print("You should give " + str(units) + " units for the food.")
 
     # Extra units for the high
     if number >= startscale:
